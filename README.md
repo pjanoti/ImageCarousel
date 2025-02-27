@@ -34,7 +34,7 @@ PreferenceKey for scroll detection
 
 Clone the repository:
 
-git clone https://github.com/your-repo/ImageCarousel.git
+git clone https://github.com/pjanoti/ImageCarousel.git
 cd ImageCarousel
 
 Open ImageCarousel.xcodeproj in Xcode.
